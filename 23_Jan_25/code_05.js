@@ -27,5 +27,5 @@ function validatePassword(password) {
   
   // Test cases
  
-  console.log(validatePassword("abc"));          // Password must be at least 8 characters long.
+  console.log(validatePassword("abc"));         
   

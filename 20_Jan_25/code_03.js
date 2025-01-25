@@ -1,4 +1,4 @@
-// Print the data types of the vatiables from the object of name userinfo 
+// Print the data types of the variables from the object of name userinfo 
 
 let userinfo = {
     name :'Randhir',
